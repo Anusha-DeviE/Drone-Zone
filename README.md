@@ -31,5 +31,5 @@ Performance validated via reward trends, path heatmaps, and real-time simulation
 
 **🚀 Run the Project**
 
-_pip install ursina numpy matplotlib
-python Drone.py_
+_pip install ursina numpy matplotlib_
+
